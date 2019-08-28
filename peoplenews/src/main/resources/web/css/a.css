@@ -1,0 +1,12 @@
+#a2{
+    background-color: lawngreen;
+    height: 400px;
+    width: 500px;
+    /*top: 10%;*/
+    left: 28%;
+    position: absolute;
+}
+#a22{
+    text-align: center;
+    height: 50px;
+}
